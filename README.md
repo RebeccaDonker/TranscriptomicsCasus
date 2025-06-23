@@ -41,10 +41,10 @@ De differentiële genexpressieanalyse via DESeq2 resulteerde in een dataset van 
 
 
 **🌋 Visualisatie: Volcano plot**
-De [volcano plot](resultaten/volcano plot.png) toont deze verschillen, waarbij significante genen (rood) zowel een sterke verandering in expressie als statistische betrouwbaarheid vertonen. Opvallende genen waren onder andere ANKRD30BL, MT-ND6, BCL2A1 en CD226, die mogelijk een rol spelen in het ziekteproces en verdere functionele analyse verdienen.
+De [volcano plot](https://github.com/RebeccaDonker/TranscriptomicsCasus/blob/main/resultaten/volcano%20plot.png) toont deze verschillen, waarbij significante genen (rood) zowel een sterke verandering in expressie als statistische betrouwbaarheid vertonen. Opvallende genen waren onder andere ANKRD30BL, MT-ND6, BCL2A1 en CD226, die mogelijk een rol spelen in het ziekteproces en verdere functionele analyse verdienen.
 
 **🧠 GO-verrijkingsanalyse**
-De GO-verrijkingsanalyse (bestand: SigGo.txt) liet zien dat de significant gereguleerde genen betrokken zijn bij immuunresponsen, signaaltransductie, apoptose, transcriptieregulatie en eiwittransport. Deze processen zijn bekend als belangrijke aspecten van de RA-pathologie en ondersteunen de relevantie van de gevonden genen binnen het ziektebeeld.
+De GO-verrijkingsanalyse [SigGo] liet zien dat de significant gereguleerde genen betrokken zijn bij immuunresponsen, signaaltransductie, apoptose, transcriptieregulatie en eiwittransport. Deze processen zijn bekend als belangrijke aspecten van de RA-pathologie en ondersteunen de relevantie van de gevonden genen binnen het ziektebeeld.
 
 **🧭 KEGG pathway-analyse**
 De KEGG pathway-analyse met pathview benadrukte verhoogde expressie van ontstekingsmediatoren zoals TNFα, IL-6, IL-1β en RANKL. Daarnaast werd activering van immuuncellen zoals T- en B-cellen, macrofagen en osteoclasten waargenomen, die bijdragen aan botresorptie en gewrichtsschade. Deze bevindingen, zichtbaar in pathway hsa05323 (hsa05323.pathview), onderstrepen de complexiteit van RA en wijzen op mogelijke therapeutische aangrijpingspunten
