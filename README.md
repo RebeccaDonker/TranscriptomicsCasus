@@ -41,7 +41,7 @@ De differentiële genexpressieanalyse via DESeq2 resulteerde in een dataset van 
 
 
 **🌋 Visualisatie: Volcano plot**
-De volcano plot toont deze verschillen, waarbij significante genen (rood) zowel een sterke verandering in expressie als statistische betrouwbaarheid vertonen. Opvallende genen waren onder andere ANKRD30BL, MT-ND6, BCL2A1 en CD226, die mogelijk een rol spelen in het ziekteproces en verdere functionele analyse verdienen.
+De [volcano plot](resultaten/volcano plot.png) toont deze verschillen, waarbij significante genen (rood) zowel een sterke verandering in expressie als statistische betrouwbaarheid vertonen. Opvallende genen waren onder andere ANKRD30BL, MT-ND6, BCL2A1 en CD226, die mogelijk een rol spelen in het ziekteproces en verdere functionele analyse verdienen.
 
 **🧠 GO-verrijkingsanalyse**
 De GO-verrijkingsanalyse (bestand: SigGo.txt) liet zien dat de significant gereguleerde genen betrokken zijn bij immuunresponsen, signaaltransductie, apoptose, transcriptieregulatie en eiwittransport. Deze processen zijn bekend als belangrijke aspecten van de RA-pathologie en ondersteunen de relevantie van de gevonden genen binnen het ziektebeeld.
