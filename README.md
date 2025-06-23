@@ -3,7 +3,7 @@
 **inhoud Github**
 
 
-**inleiding**
+**🧾inleiding**
 
 Reumatoïde artritis (RA) is een chronische auto-immuunziekte die wordt gekenmerkt door pijnlijke gewrichtsontstekingen en mogelijk destructieve boterosie. Wereldwijd treft RA naar schatting 0,1–2,0% van de bevolking, met uitschieters tot 6,8% bij bepaalde inheemse gemeenschappen. De oorzaak is nog grotendeels onbekend en ondanks therapeutische vooruitgang bestaat er geen genezing. Genetische en omgevingsfactoren spelen een rol in de variatie in prevalentie tussen en binnen landen [global prevalence](https://link.springer.com/article/10.1007/s00296-020-04731-0).. RA ontwikkelt zich via een meerdere jaren durende prodromale fase, vaak met immuunactiviteit in mucosale weefsels voorafgaand aan symptomen. [Management of Rheumatoid Arthritis](https://www.mdpi.com/2073-4409/10/11/2857) 
 
@@ -14,7 +14,7 @@ Transcriptomics biedt een krachtig middel om de moleculaire basis van reumatoïd
 
 ---
 
-**Methoden**
+**⚙️Methoden**
 
 Voor dit onderzoek zijn synoviumbiopten verzameld van vier Reumatoïde Artritis (RA)-patiënten (ACPA-positief, >12 maanden gediagnosticeerd) en vier ACPA-negatieve controles. RNA werd geïsoleerd en omgezet naar cDNA. Sequencing vond plaats op een Illumina-platform (paired-end, 2×300 bp), waarbij ruwe .fastq-bestanden werden gegenereerd.
 
