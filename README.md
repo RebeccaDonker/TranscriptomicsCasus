@@ -23,7 +23,7 @@ De reads zijn uitgelijnd op het humane referentiegenoom van [NCBI](https://www.n
 Voor functionele interpretatie is een Gene Ontology (GO)-verrijkingsanalyse uitgevoerd met [goseq](https://bioconductor.org/packages/release/bioc/html/DESeq2.html) (versie 1.58.0), waarbij genlengtebias is gecorrigeerd. Verrijkte GO-termen binnen de categorieën Biological Process (BP), Molecular Function (MF) en Cellular Component (CC) zijn geïdentificeerd met behulp van  [GO.db](https://bioconductor.org/packages/release/data/annotation/html/GO.db.html0 (versie 3.20.0) en [org.Hs.eg.db](https://bioconductor.org/packages/release/data/annotation/html/org.Hs.eg.db.html) (versie 3.20.0).
 
 
-Daarnaast is een KEGG pathway-analyse uitgevoerd met [pathview](https://bioconductor.org/packages/release/bioc/html/pathview.html0 (versie 1.46.0) en [KEGGREST](https://bioconductor.org/packages/release/bioc/html/KEGGREST.html) (versie 1.46.0), waarbij log2FoldChange-waarden zijn geprojecteerd op relevante humane pathways.
+Daarnaast is een KEGG pathway-analyse uitgevoerd met [pathvieuw](https://bioconductor.org/packages/release/bioc/html/pathview.html0 (versie 1.46.0) en [KEGGREST](https://bioconductor.org/packages/release/bioc/html/KEGGREST.html) (versie 1.46.0), waarbij log2FoldChange-waarden zijn geprojecteerd op relevante humane pathways.
 
 ---
 
