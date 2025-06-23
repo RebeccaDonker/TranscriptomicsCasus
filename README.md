@@ -17,11 +17,16 @@ Transcriptomics biedt een krachtig middel om de moleculaire basis van reumatoïd
 **Methoden**
 
 Voor dit onderzoek zijn synoviumbiopten verzameld van vier Reumatoïde Artritis (RA)-patiënten (ACPA-positief, >12 maanden gediagnosticeerd) en vier ACPA-negatieve controles. RNA werd geïsoleerd en omgezet naar cDNA. Sequencing vond plaats op een Illumina-platform (paired-end, 2×300 bp), waarbij ruwe .fastq-bestanden werden gegenereerd.
-De reads zijn uitgelijnd op het humane referentiegenoom (hg38) met behulp van de Rsubread-package. De resulterende .BAM-bestanden zijn gekwantificeerd met featureCounts, waarna een countmatrix werd opgebouwd. Deze matrix werd ingelezen in R en verwerkt met DESeq2 voor differentiële genexpressieanalyse. Genen met een aangepaste p-waarde < 0.05 werden als significant beschouwd.
-Voor functionele interpretatie is een Gene Ontology (GO)-verrijkingsanalyse uitgevoerd met goseq, waarbij genlengtebias is gecorrigeerd. Verrijkte GO-termen binnen de categorieën Biological Process (BP), Molecular Function (MF) en Cellular Component (CC) zijn geïdentificeerd. Daarnaast is een KEGG pathway-analyse uitgevoerd met pathview, waarbij log2FoldChange-waarden zijn geprojecteerd op relevante humane pathways.
-Alle analyses zijn uitgevoerd in R met de packages (Accessing the KEGG REST API, n.d.; An Introduction to Rsamtools, n.d.; Analyzing RNA-Seq Data with DESeq2, n.d.; Bioconductor - DESeq2, n.d.; Bioconductor - GO.Db, n.d.; Bioconductor - Org.Hs.Eg.Db, n.d.; EnhancedVolcano: Publication-Ready Volcano Plots with Enhanced Colouring and Labeling, n.d.; Package “geneLenDataBase” Title Lengths of MRNA Transcripts for a Number of Genomes, 2025; Package “Microbiome,” 2025; Luo, 2025; Shi & Liao, 2025)
+
+
+De reads zijn uitgelijnd op het humane referentiegenoom van [NCBI](https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_000001405.40/)  De ruwe sequencingdata zijn uitgelijnd met behulp van de [Rsubread-package](https://bioconductor.org/packages/release/bioc/html/Rsubread.html) (versie 2.20.0). De resulterende .BAM-bestanden zijn gekwantificeerd met featureCounts, waarna een countmatrix is opgebouwd. Deze matrix werd ingelezen in R en verwerkt met [DESeq2](https://bioconductor.org/packages/release/bioc/html/DESeq2.html) (versie 1.46.0) voor differentiële genexpressieanalyse. Genen met een aangepaste p-waarde < 0.05 werden als significant beschouwd.
+Voor functionele interpretatie is een Gene Ontology (GO)-verrijkingsanalyse uitgevoerd met [goseq](https://bioconductor.org/packages/release/bioc/html/DESeq2.html) (versie 1.58.0), waarbij genlengtebias is gecorrigeerd. Verrijkte GO-termen binnen de categorieën Biological Process (BP), Molecular Function (MF) en Cellular Component (CC) zijn geïdentificeerd met behulp van  [GO.db](https://bioconductor.org/packages/release/data/annotation/html/GO.db.html0 (versie 3.20.0) en [org.Hs.eg.db](https://bioconductor.org/packages/release/data/annotation/html/org.Hs.eg.db.html) (versie 3.20.0).
+
+
+Daarnaast is een KEGG pathway-analyse uitgevoerd met [pathview](https://bioconductor.org/packages/release/bioc/html/pathview.html0 (versie 1.46.0) en [KEGGREST](https://bioconductor.org/packages/release/bioc/html/KEGGREST.html) (versie 1.46.0), waarbij log2FoldChange-waarden zijn geprojecteerd op relevante humane pathways.
 
 ---
+
 
 **Resultaten**
 
