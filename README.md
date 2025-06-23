@@ -1,9 +1,13 @@
 # TranscriptomicsCasus
 
+**inhoud Github**
+
+
 **inleiding**
 
-Reumatoïde Artritis (RA) is een chronische auto-immuunziekte die wordt gekenmerkt door ontsteking van het synovium, het slijmvlies van de gewrichten. Deze synovitis leidt tot progressieve gewrichtsschade en pijn. De exacte oorzaak van RA is nog onbekend, maar genetische aanleg, omgevingsfactoren en een ontregeld immuunsysteem spelen een belangrijke rol (Gabriel, 2001; Radu & Bungau, 2021). Autoantistoffen zoals ACPA (anti-CCP) worden vaak gebruikt voor de diagnose. Vroege opsporing is cruciaal om onherstelbare schade te voorkomen.
-Transcriptomics biedt een krachtig middel om de moleculaire basis van RA te onderzoeken. Door genexpressieprofielen van RA-patiënten te vergelijken met gezonde controles kunnen betrokken genen en biologische processen worden geïdentificeerd. In dit onderzoek worden synoviumbiopten van vier RA-patiënten (ACPA-positief, >12 maanden gediagnosticeerd) vergeleken met vier ACPA-negatieve controles. Via RNA-sequencing en Gene Ontology-analyse wordt onderzocht welke genen afwijkend tot expressie komen en welke pathways betrokken zijn bij RA. Het doel is om meer inzicht te krijgen in de ziekteprocessen en mogelijke aangrijpingspunten voor therapie te identificeren.
+Reumatoïde artritis (RA) is een chronische auto-immuunziekte die wordt gekenmerkt door pijnlijke gewrichtsontstekingen en mogelijk destructieve boterosie. Wereldwijd treft RA naar schatting 0,1–2,0% van de bevolking, met uitschieters tot 6,8% bij bepaalde inheemse gemeenschappen. De oorzaak is nog grotendeels onbekend en ondanks therapeutische vooruitgang bestaat er geen genezing. Genetische en omgevingsfactoren spelen een rol in de variatie in prevalentie tussen en binnen landen(Almutairi et al., 2021). RA ontwikkelt zich via een meerdere jaren durende prodromale fase, vaak met immuunactiviteit in mucosale weefsels voorafgaand aan symptomen [Rheumatoid arthritis prevalenceand risk factors – Springer (2020).
+Transcriptomics biedt een krachtig middel om de moleculaire basis van reumatoïde artritis (RA) te ontrafelen. Door genexpressieprofielen van RA-patiënten te vergelijken met gezonde controles kunnen betrokken genen en biologische processen worden geïdentificeerd. De transcriptome het geheel aan mRNA-moleculen in een cel vormt hierbij de basis. Dankzij RNA-sequencing, dat microarrays grotendeels heeft vervangen, kunnen genexpressiepatronen nauwkeurig worden geanalyseerd [Transcriptomics in drug discovery – ScienceDirect 2012).In dit onderzoek worden synoviumbiopten van vier ACPA-positieve RA-patiënten vergeleken met vier ACPA-negatieve controles. Via RNA-seq en Gene Ontology-analyse wordt onderzocht welke genen afwijkend tot expressie komen en welke pathways mogelijk betrokken zijn bij RA. Deze aanpak kan een inzicht geven in ziekteprocessen.
+
 
 ---
 
@@ -29,5 +33,9 @@ De KEGG pathway-analyse met pathview benadrukte verhoogde expressie van ontsteki
 
 Dit onderzoek toont aan dat RNA-sequencing en bio-informatica analyses inzicht geven in de moleculaire basis van Reumatoïde Artritis. De identificatie van significant veranderde genen en verrijkte biologische processen bevestigt het ontstekingskarakter van RA en wijst op belangrijke immuunroutes en celtypen die betrokken zijn bij ziekteprogressie. Het gebruik van GO- en KEGG-analyse helpt deze genen in een biologisch context te plaatsen en mogelijke aangrijpingspunten voor therapie te identificeren.
 Voor toekomstig onderzoek is het aan te raden de bevindingen te valideren in grotere patiëntengroepen en functioneel onderzoek te doen naar specifieke genen zoals ANKRD30BL en BCL2A1. Bovendien kan integratie met proteomics en klinische data leiden tot een meer omvattend begrip van RA. Tenslotte is het belangrijk om data management en scriptdocumentatie goed te borgen, zodat onderzoeksresultaten reproduceerbaar en betrouwbaar blijven.
+
+---
+
+**beheer**
 
 
