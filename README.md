@@ -20,12 +20,12 @@ Voor dit onderzoek zijn synoviumbiopten verzameld van vier Reumatoïde Artritis 
 
 
 De reads zijn uitgelijnd op het humane referentiegenoom van [NCBI](https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_000001405.40/)  De ruwe sequencingdata zijn uitgelijnd met behulp van de [Rsubread-package](https://bioconductor.org/packages/release/bioc/html/Rsubread.html) (versie 2.20.0). De resulterende .BAM-bestanden zijn gekwantificeerd met featureCounts, waarna een countmatrix is opgebouwd. Deze matrix werd ingelezen in R en verwerkt met [DESeq2](https://bioconductor.org/packages/release/bioc/html/DESeq2.html) (versie 1.46.0) voor differentiële genexpressieanalyse. Genen met een aangepaste p-waarde < 0.05 werden als significant beschouwd.
-Voor functionele interpretatie is een Gene Ontology (GO)-verrijkingsanalyse uitgevoerd met [goseq](https://bioconductor.org/packages/release/bioc/html/DESeq2.html) (versie 1.58.0), waarbij genlengtebias is gecorrigeerd. Verrijkte GO-termen binnen de categorieën Biological Process (BP), Molecular Function (MF) en Cellular Component (CC) zijn geïdentificeerd met behulp van [GO.db](https://bioconductor.org/packages/release/data/annotation/html/GO.db.html0 (versie 3.20.0) en [org.Hs.eg.db](https://bioconductor.org/packages/release/data/annotation/html/org.Hs.eg.db.html) (versie 3.20.0).
+Voor functionele interpretatie is een Gene Ontology (GO)-verrijkingsanalyse uitgevoerd met [goseq](https://bioconductor.org/packages/release/bioc/html/DESeq2.html) (versie 1.58.0), waarbij genlengtebias is gecorrigeerd. Verrijkte GO-termen binnen de categorieën Biological Process (BP), Molecular Function (MF) en Cellular Component (CC) zijn geïdentificeerd met behulp van [GO.db](https://bioconductor.org/packages/release/data/annotation/html/GO.db.html) (versie 3.20.0) en [org.Hs.eg.db](https://bioconductor.org/packages/release/data/annotation/html/org.Hs.eg.db.html) (versie 3.20.0).
 
 
 
 
-Daarnaast is een KEGG pathway-analyse uitgevoerd met [pathvieuw](https://bioconductor.org/packages/release/bioc/html/pathview.html0 (versie 1.46.0) en [KEGGREST](https://bioconductor.org/packages/release/bioc/html/KEGGREST.html) (versie 1.46.0), waarbij log2FoldChange-waarden zijn geprojecteerd op relevante humane pathways.
+Daarnaast is een KEGG pathway-analyse uitgevoerd met [pathvieuw](https://bioconductor.org/packages/release/bioc/html/pathview.html) (versie 1.46.0) en [KEGGREST](https://bioconductor.org/packages/release/bioc/html/KEGGREST.html) (versie 1.46.0), waarbij log2FoldChange-waarden zijn geprojecteerd op relevante humane pathways.
 
 ---
 
