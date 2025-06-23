@@ -1,5 +1,6 @@
 # TranscriptomicsCasus
-*inleiding* 
+
+#*inleiding* 
 
 Reumatoïde Artritis (RA) is een chronische auto-immuunziekte die wordt gekenmerkt door ontsteking van het synovium, het slijmvlies van de gewrichten. Deze synovitis leidt tot progressieve gewrichtsschade en pijn. De exacte oorzaak van RA is nog onbekend, maar genetische aanleg, omgevingsfactoren en een ontregeld immuunsysteem spelen een belangrijke rol (Gabriel, 2001; Radu & Bungau, 2021). Autoantistoffen zoals ACPA (anti-CCP) worden vaak gebruikt voor de diagnose. Vroege opsporing is cruciaal om onherstelbare schade te voorkomen.
 Transcriptomics biedt een krachtig middel om de moleculaire basis van RA te onderzoeken. Door genexpressieprofielen van RA-patiënten te vergelijken met gezonde controles kunnen betrokken genen en biologische processen worden geïdentificeerd. In dit onderzoek worden synoviumbiopten van vier RA-patiënten (ACPA-positief, >12 maanden gediagnosticeerd) vergeleken met vier ACPA-negatieve controles. Via RNA-sequencing en Gene Ontology-analyse wordt onderzocht welke genen afwijkend tot expressie komen en welke pathways betrokken zijn bij RA. Het doel is om meer inzicht te krijgen in de ziekteprocessen en mogelijke aangrijpingspunten voor therapie te identificeren.
