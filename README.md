@@ -32,10 +32,23 @@ Daarnaast is een KEGG pathway-analyse uitgevoerd met [pathvieuw](https://biocond
 
 **Resultaten**
 
-De RNA-sequencing leidde tot hoogwaardige reads die succesvol werden uitgelijnd op het referentiegenoom, wat terug te zien is in de mapping-statistieken. De differentiële expressieanalyse via DESeq2 resulteerde in een dataset van 29.407 geanalyseerde genen. Met een padj < 0.05 en absolute log2 fold change > 1 werden meerdere genen geïdentificeerd die significant verschillend tot expressie kwamen tussen RA-patiënten en controles.
+**🧬 Kwaliteit van RNA-sequencing en mapping**
+De RNA-sequencing leverde hoogwaardige reads op die succesvol werden uitgelijnd op het humane referentiegenoom, wat bevestigd werd door de mapping-statistieken.
+
+
+**📊 Differentiële genexpressieanalyse**
+De differentiële genexpressieanalyse via DESeq2 resulteerde in een dataset van 29.407 geanalyseerde genen. Met een aangepaste p-waarde kleiner dan 0.05 en een absolute log2 fold change groter dan 1 werden meerdere genen geïdentificeerd die significant verschillend tot expressie kwamen tussen RA-patiënten en gezonde controles.
+
+
+**🌋 Visualisatie: Volcano plot**
 De volcano plot toont deze verschillen, waarbij significante genen (rood) zowel een sterke verandering in expressie als statistische betrouwbaarheid vertonen. Opvallende genen waren onder andere ANKRD30BL, MT-ND6, BCL2A1 en CD226, die mogelijk een rol spelen in het ziekteproces en verdere functionele analyse verdienen.
-De GO-verrijkingsanalyse (bestand SigGo.txt) liet zien dat significante genen betrokken zijn bij immuunresponsen, signaaltransductie, apoptose, transcriptieregulatie en eiwittransport. Deze processen zijn bekend als belangrijke aspecten van RA-pathologie.
-De KEGG pathway-analyse met pathview benadrukte verhoogde expressie van ontstekingsmediatoren zoals TNFα, IL-6, IL-1β en RANKL, en toonde activering van immuuncellen (T- en B-cellen, macrofagen) en osteoclasten die bijdragen aan botresorptie en gewrichtsschade (hsa05323). Deze bevindingen bevestigen de complexiteit van RA en onderstrepen mogelijke therapeutische targets. (hsa05323.pathview)
+
+**🧠 GO-verrijkingsanalyse**
+De GO-verrijkingsanalyse (bestand: SigGo.txt) liet zien dat de significant gereguleerde genen betrokken zijn bij immuunresponsen, signaaltransductie, apoptose, transcriptieregulatie en eiwittransport. Deze processen zijn bekend als belangrijke aspecten van de RA-pathologie en ondersteunen de relevantie van de gevonden genen binnen het ziektebeeld.
+
+**🧭 KEGG pathway-analyse**
+De KEGG pathway-analyse met pathview benadrukte verhoogde expressie van ontstekingsmediatoren zoals TNFα, IL-6, IL-1β en RANKL. Daarnaast werd activering van immuuncellen zoals T- en B-cellen, macrofagen en osteoclasten waargenomen, die bijdragen aan botresorptie en gewrichtsschade. Deze bevindingen, zichtbaar in pathway hsa05323 (hsa05323.pathview), onderstrepen de complexiteit van RA en wijzen op mogelijke therapeutische aangrijpingspunten
+
 
 ---
 
