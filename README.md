@@ -54,11 +54,21 @@ De KEGG pathway-analyse met pathview benadrukte verhoogde expressie van ontsteki
 
 **Conclusie**
 
-Dit onderzoek toont aan dat RNA-sequencing en bio-informatica analyses inzicht geven in de moleculaire basis van Reumatoïde Artritis. De identificatie van significant veranderde genen en verrijkte biologische processen bevestigt het ontstekingskarakter van RA en wijst op belangrijke immuunroutes en celtypen die betrokken zijn bij ziekteprogressie. Het gebruik van GO- en KEGG-analyse helpt deze genen in een biologisch context te plaatsen en mogelijke aangrijpingspunten voor therapie te identificeren.
-Voor toekomstig onderzoek is het aan te raden de bevindingen te valideren in grotere patiëntengroepen en functioneel onderzoek te doen naar specifieke genen zoals ANKRD30BL en BCL2A1. Bovendien kan integratie met proteomics en klinische data leiden tot een meer omvattend begrip van RA. Tenslotte is het belangrijk om data management en scriptdocumentatie goed te borgen, zodat onderzoeksresultaten reproduceerbaar en betrouwbaar blijven.
+Dit transcriptomics-onderzoek biedt waardevolle inzichten in de moleculaire mechanismen die betrokken zijn bij reumatoïde artritis (RA). Door middel van RNA-sequencing van synoviumbiopten van RA-patiënten en gezonde controles konden significante verschillen in genexpressie worden vastgesteld. De differentiële genexpressieanalyse bracht meerdere genen aan het licht die sterk geassocieerd zijn met ontstekings- en immuunprocessen. Opvallende genen zoals BCL2A1 en CD226 wijzen mogelijk op nieuwe aanknopingspunten voor verdere functionele of therapeutische studies.
+
+De Gene Ontology-verrijkingsanalyse bevestigde dat veel van deze genen betrokken zijn bij processen die kenmerkend zijn voor RA, zoals immuunactivatie, apoptose en cytokinesignalering. De KEGG pathway-analyse toonde aan dat bekende routes zoals TNFα-, IL-6- en RANKL-signaaltransductie duidelijk geactiveerd zijn in het RA-synovium. Deze resultaten zijn in lijn met de huidige kennis over RA, maar brengen tevens aanvullende genen en pathways onder de aandacht die mogelijk tot nu toe onderbelicht zijn gebleven.
 
 ---
 
 **beheer**
+Voor het waarborgen van reproduceerbaarheid, transparantie en datakwaliteit binnen dit project zijn aanvullende documenten opgesteld waarin het beheer van scripts en onderzoeksgegevens uitgebreid wordt toegelicht. In het document GitHub voor onderzoeksbeheer wordt beschreven hoe versiebeheer is toegepast met Git en GitHub, inclusief de opbouw van de repository, het gebruik van commits en branches, en het onderscheid tussen de eerste en tweede versie van het analyse-script.
+
+
+Daarnaast is in het document Data Stewardship in dit project uiteengezet hoe ik als data steward verantwoordelijk was voor het organiseren, beveiligen en documenteren van de onderzoeksgegevens. Hierin wordt onder meer toegelicht hoe datakwaliteit, privacy en toegankelijkheid zijn gewaarborgd, en hoe deze principes zijn toegepast binnen de context van dit transcriptomicsproject.
+
+**bronnen**
+Bij bronnen is een word document opgesteld met alle gebruikte bronnen. ook zijn alle handeleidingen zijn ook terug te vinden
+ 
+
 
 
