@@ -1,6 +1,10 @@
 # TranscriptomicsCasus
 
 **inhoud Github**
+R.script
+bronnen
+resultaten
+Data
 
 
 **🧾inleiding**
