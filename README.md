@@ -67,24 +67,7 @@ Voor het waarborgen van reproduceerbaarheid, transparantie en datakwaliteit binn
 Daarnaast is in het document Data Stewardship in dit project uiteengezet hoe ik als data steward verantwoordelijk was voor het organiseren, beveiligen en documenteren van de onderzoeksgegevens. Hierin wordt onder meer toegelicht hoe datakwaliteit, privacy en toegankelijkheid zijn gewaarborgd, en hoe deze principes zijn toegepast binnen de context van dit transcriptomicsproject.
 
 **bronnen**
-Bronnen
-Accessing the KEGG REST API. (n.d.). Retrieved June 18, 2025, from https://bioconductor.org/packages/release/bioc/vignettes/KEGGREST/inst/doc/KEGGREST-vignette.html
-Alivernini, S., Firestein, G. S., & McInnes, I. B. (2022). The pathogenesis of rheumatoid arthritis. Immunity, 55(12), 2255–2270. https://doi.org/10.1016/j.immuni.2022.11.009
-Almutairi, K., Nossent, J., Preen, D., Keen, H., & Inderjeeth, C. (2021). The global prevalence of rheumatoid arthritis: a meta-analysis based on a systematic review. Rheumatology International, 41(5), 863–877. https://doi.org/10.1007/S00296-020-04731-0/TABLES/2
-An Introduction to Rsamtools. (n.d.). Retrieved June 18, 2025, from https://bioconductor.org/packages/release/bioc/vignettes/Rsamtools/inst/doc/Rsamtools-Overview.html
-Analyzing RNA-seq data with DESeq2. (n.d.). Retrieved June 18, 2025, from https://bioconductor.org/packages/devel/bioc/vignettes/DESeq2/inst/doc/DESeq2.html
-Bioconductor - DESeq2. (n.d.). Retrieved June 18, 2025, from https://bioconductor.org/packages/release/bioc/html/DESeq2.html
-Bioconductor - GO.db. (n.d.). Retrieved June 22, 2025, from https://bioconductor.org/packages/release/data/annotation/html/GO.db.html
-Bioconductor - org.Hs.eg.db. (n.d.). Retrieved June 18, 2025, from https://bioconductor.org/packages/release/data/annotation/html/org.Hs.eg.db.html
-EnhancedVolcano: publication-ready volcano plots with enhanced colouring and labeling. (n.d.). Retrieved June 18, 2025, from https://bioconductor.org/packages/release/bioc/vignettes/EnhancedVolcano/inst/doc/EnhancedVolcano.html
-Homo sapiens genome assembly GRCh38.p14 - NCBI - NLM. (n.d.). Retrieved June 23, 2025, from https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_000001405.40/
-Luo, W. (2025). Pathview: pathway based data integration and visualization. https://doi.org/10.1093/bioinformatics/btt285
-McGettigan, P. A. (2013). Transcriptomics in the RNA-seq era. Current Opinion in Chemical Biology, 17(1), 4–11. https://doi.org/10.1016/J.CBPA.2012.12.008
-Package “geneLenDataBase” Title Lengths of mRNA transcripts for a number of genomes. (2025). https://github.com/federicomarini/geneLenDataBase
-Shi, W., & Liao, Y. (2025). Rsubread/Subread Users Guide.
-
-
-alle handeleidingen zijn ook terug te vinden
+Bij bronnen is een word document opgesteld met alle gebruikte bronnen. ook zijn alle handeleidingen zijn ook terug te vinden
  
 
 
