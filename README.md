@@ -2,7 +2,7 @@
 
 **📄 Inhoudsopgave Githubpagina**
 
-**Rscript/** -transcriptomics.casus2.R – R-script voor transcriptomicsanalyse
+**Rscript/**  – R-script voor transcriptomicsanalyse
 
 **bronnen/** -tweede versie transcriptomics bronnen.docx – Gebruikte literatuur en referenties
 
