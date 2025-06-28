@@ -71,9 +71,9 @@ De KEGG pathway-analyse met pathview benadrukte verhoogde expressie van ontsteki
 
 Reumatoïde artritis (RA) is een complexe auto-immuunziekte waarbij het afweersysteem het eigen lichaamsweefsel aanvalt. In dit onderzoek is gekeken naar genexpressieverschillen tussen RA-patiënten en gezonde controles om beter te begrijpen welke processen een rol spelen in de ziekte. Uit de RNA-sequencing kwamen meerdere genen naar voren die significant anders tot expressie kwamen, waaronder genen die betrokken zijn bij ontstekingsprocessen, zoals TNFα, IL-6 en RANKL. Deze resultaten sluiten goed aan bij wat al bekend is over RA, namelijk dat ontstekingsmediatoren en immuuncellen een centrale rol spelen bij de schade aan gewrichten.
 
-Ook bleek uit de GO- en KEGG-analyses dat de veranderde genexpressie vooral te maken had met immuunactivatie, signaaloverdracht en celregulatie. Deze processen passen bij het ziektebeeld van RA. De resultaten geven dus een waardevol inzicht in mogelijke moleculaire mechanismen achter RA.
+Ook bleek uit de GO- en KEGG-analyses dat de veranderde genexpressie vooral te maken had met immuunactivatie, signaaloverdracht en celregulatie. Deze processen passen bij het ziektebeeld van RA.
 
-Toch moet er rekening worden gehouden met de kleine steekproefomvang van dit onderzoek. Met slechts vier patiënten en vier controles zijn de resultaten beperkt generaliseerbaar. Voor vervolgonderzoek zou het daarom goed zijn om met grotere groepen te werken en eventueel functionele experimenten toe te voegen om de rol van specifieke genen verder te onderzoeken.
+Toch moet er rekening worden gehouden met de kleine steekproefomvang van dit onderzoek. Met slechts vier patiënten en vier controles zijn de resultaten bperkt. Voor vervolgonderzoek zou het daarom goed zijn om met grotere groepen te werken en eventueel functionele experimenten toe te voegen om de rol van specifieke genen verder te onderzoeken.
 
 
 ---
