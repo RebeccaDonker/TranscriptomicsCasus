@@ -10,9 +10,9 @@ transcriptomics.casus2.R – R-script voor transcriptomicsanalyse
 
 tweede versie transcriptomics bronnen.docx – Gebruikte literatuur en referenties
 
-**ersultaten**
+**rersultaten**
 
-resultaten en analyses
+resultaten
 
 **DataStewardshipRebeccaDonker.md**
 
