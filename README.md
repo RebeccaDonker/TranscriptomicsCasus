@@ -4,7 +4,7 @@
 
 **Rscript/**  – R-script voor transcriptomicsanalyse
 
-**bronnen/** -tweede versie transcriptomics bronnen.docx – Gebruikte literatuur en referenties
+**bronnen/** – Gebruikte literatuur en referenties
 
 **rersultaten** -resultaten
 
