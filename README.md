@@ -1,29 +1,30 @@
 # TranscriptomicsCasus
 
-**📄 Inhoudsopgave**
--Rscript/
+**📄 Inhoudsopgave Githubpagina**
 
-*transcriptomics.casus2.R – R-script voor transcriptomicsanalyse*
+**Rscript/**
 
--bronnen/
+transcriptomics.casus2.R – R-script voor transcriptomicsanalyse
 
-*tweede versie transcriptomics bronnen.docx – Gebruikte literatuur en referenties*
+**bronnen/**
 
--resultaten/
+tweede versie transcriptomics bronnen.docx – Gebruikte literatuur en referenties
 
-*resultaten en analyses*
+**ersultaten**
 
--DataStewardshipRebeccaDonker.md
+resultaten en analyses
 
-*Document over databeheer en verantwoording*
+**DataStewardshipRebeccaDonker.md**
 
--GitHub_usageRebeccaDonker.md
+Document over databeheer en verantwoording
 
-*Uitleg over het gebruik van GitHub binnen dit project*
+**GitHub_usageRebeccaDonker.md**
 
--README.md
+Uitleg over het gebruik van GitHub binnen dit project
 
-*Algemene projectinformatie en toelichting op de mappenstructuur*
+**README.md**
+
+Algemene projectinformatie en toelichting op de mappenstructuur
 
 ---
 
