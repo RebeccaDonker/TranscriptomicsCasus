@@ -45,6 +45,8 @@ Daarnaast is een KEGG pathway-analyse uitgevoerd met [pathvieuw](https://biocond
 
 
 **Resultaten**
+
+
 **📊 Differentiële genexpressieanalyse**
 De differentiële genexpressieanalyse via DESeq2 resulteerde in een dataset van 29.407 geanalyseerde genen. Met een aangepaste p-waarde kleiner dan 0.05 en een absolute log2 fold change groter dan 1 werden meerdere genen geïdentificeerd die significant verschillend tot expressie kwamen tussen RA-patiënten en gezonde controles.
 
