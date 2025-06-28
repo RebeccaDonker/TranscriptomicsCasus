@@ -57,10 +57,12 @@ De KEGG pathway-analyse met pathview benadrukte verhoogde expressie van ontsteki
 ---
 
 **Conclusie**
+Reumatoïde artritis (RA) is een complexe auto-immuunziekte waarbij het afweersysteem het eigen lichaamsweefsel aanvalt. In dit onderzoek is gekeken naar genexpressieverschillen tussen RA-patiënten en gezonde controles om beter te begrijpen welke processen een rol spelen in de ziekte. Uit de RNA-sequencing kwamen meerdere genen naar voren die significant anders tot expressie kwamen, waaronder genen die betrokken zijn bij ontstekingsprocessen, zoals TNFα, IL-6 en RANKL. Deze resultaten sluiten goed aan bij wat al bekend is over RA, namelijk dat ontstekingsmediatoren en immuuncellen een centrale rol spelen bij de schade aan gewrichten.
 
-Dit transcriptomics-onderzoek biedt waardevolle inzichten in de moleculaire mechanismen die betrokken zijn bij reumatoïde artritis (RA). Door middel van RNA-sequencing van synoviumbiopten van RA-patiënten en gezonde controles konden significante verschillen in genexpressie worden vastgesteld. De differentiële genexpressieanalyse bracht meerdere genen aan het licht die sterk geassocieerd zijn met ontstekings- en immuunprocessen. Opvallende genen zoals BCL2A1 en CD226 wijzen mogelijk op nieuwe aanknopingspunten voor verdere functionele of therapeutische studies.
+Ook bleek uit de GO- en KEGG-analyses dat de veranderde genexpressie vooral te maken had met immuunactivatie, signaaloverdracht en celregulatie. Deze processen passen bij het ziektebeeld van RA. De resultaten geven dus een waardevol inzicht in mogelijke moleculaire mechanismen achter RA.
 
-De Gene Ontology-verrijkingsanalyse bevestigde dat veel van deze genen betrokken zijn bij processen die kenmerkend zijn voor RA, zoals immuunactivatie, apoptose en cytokinesignalering. De KEGG pathway-analyse toonde aan dat bekende routes zoals TNFα-, IL-6- en RANKL-signaaltransductie duidelijk geactiveerd zijn in het RA-synovium. Deze resultaten zijn in lijn met de huidige kennis over RA, maar brengen tevens aanvullende genen en pathways onder de aandacht die mogelijk tot nu toe onderbelicht zijn gebleven.
+Toch moet er rekening worden gehouden met de kleine steekproefomvang van dit onderzoek. Met slechts vier patiënten en vier controles zijn de resultaten beperkt generaliseerbaar. Voor vervolgonderzoek zou het daarom goed zijn om met grotere groepen te werken en eventueel functionele experimenten toe te voegen om de rol van specifieke genen verder te onderzoeken.
+
 
 ---
 
