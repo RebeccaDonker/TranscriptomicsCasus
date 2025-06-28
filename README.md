@@ -69,12 +69,16 @@ Toch moet er rekening worden gehouden met de kleine steekproefomvang van dit ond
 ---
 
 **beheer**
+
+
 Voor het waarborgen van reproduceerbaarheid, transparantie en datakwaliteit binnen dit project zijn aanvullende documenten opgesteld waarin het beheer van scripts en onderzoeksgegevens uitgebreid wordt toegelicht. In het document GitHub voor onderzoeksbeheer wordt beschreven hoe versiebeheer is toegepast met Git en GitHub, inclusief de opbouw van de repository, het gebruik van commits en branches, en het onderscheid tussen de eerste en tweede versie van het analyse-script.
 
 
 Daarnaast is in het document Data Stewardship in dit project uiteengezet hoe ik als data steward verantwoordelijk was voor het organiseren, beveiligen en documenteren van de onderzoeksgegevens. Hierin wordt onder meer toegelicht hoe datakwaliteit, privacy en toegankelijkheid zijn gewaarborgd, en hoe deze principes zijn toegepast binnen de context van dit transcriptomicsproject.
 
 **bronnen**
+
+
 Bij bronnen is een word document opgesteld met alle gebruikte bronnen. ook zijn alle handeleidingen zijn ook terug te vinden
  
 
